@@ -1,4 +1,4 @@
-// Checks to see if a given string is a palindrome.
+// Checks to see if a given string is a palindrome
 // Ignores non-alphanumeric characters
 // Passes all tests on FCC
 function palindrome(str) {
