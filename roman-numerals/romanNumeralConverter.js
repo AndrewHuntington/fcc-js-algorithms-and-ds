@@ -1,3 +1,9 @@
+// FCC JS Challenge: Roman Numeral Converter
+
+// OBJECTIVE:
+// Convert the given number into a roman numeral.
+// All roman numerals answers should be provided in upper-case.
+
 // All test pass on FCC
 const numerals = {
   1: "I",
